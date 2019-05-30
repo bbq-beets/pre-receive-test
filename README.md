@@ -1,1 +1,2 @@
-# pre-receive-test:ghost:
+# pre-receive-test
+:ghost:
